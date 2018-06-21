@@ -1,5 +1,5 @@
  {"version_code": 452257, "content": "
-<p>GBWhatsApp Mix v7.65 By NMMods</p>
+<p>MIXWhatsApp v7.65 By Nairo Mix</p>
  
  
 <li>Agregado Multichat Mod 12.6</li>
