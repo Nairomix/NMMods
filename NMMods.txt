@@ -1,9 +1,9 @@
  {"version_code": 452257, "contenido": "
-<p> Actualización v1.00</ p>
+<p>Actualización v1.00</ p>
  
  
-<li> MIXWhatsApp Nueva versión</ li>
-<li> Nairo Mix ah Actulizado Su Mod</ li>
+<li>MIXWhatsApp Nueva versión</ li>
+<li>Nairo Mix ah Actulizado Su Mod</ li>
  
  
 "," url ":" https://mundoappmix.blogspot.com.co "
