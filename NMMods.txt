@@ -1,10 +1,10 @@
-{"version_code": 452257, "contenido": "
-<p> Aqui lo llenas </ p>
+ {"version_code": 452257, "contenido": "
+<p> Actualización Encontrada v1.00</ p>
  
  
-<li> </li>
-<li></li>
-
-
+<li> MIXWhatsApp Nueva versión</ li>
+<li> Nairo Mix ah Actulizado Su Mod</ li>
+ 
+ 
 "," url ":" https://mundoappmix.blogspot.com.co "
 }
