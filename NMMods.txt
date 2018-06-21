@@ -1,5 +1,5 @@
  {"version_code": 452257, "contenido": "
-<p> Actualización Encontrada v1.00</ p>
+<p> Actualización v1.00</ p>
  
  
 <li> MIXWhatsApp Nueva versión</ li>
