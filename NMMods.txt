@@ -1,9 +1,19 @@
  {"version_code": 452257, "contenido": "
-<p>Actualización v1.00</ p>
+<p>GBWhatsApp Mix v7.65 By NMMods</p>
+
  
+
  
-<li>MIXWhatsApp Nueva versión1.0</ li>
-<li>Nairo Mix ah Actulizado Su Mod</ li>
+
+<li>Agregado Multichat Mod 12.6</li>
+
+<li>Reducido Color En Pantalla Principal</li>
+
+<li>Nuevo color En Barra de Ajustes</li>
+
+<li>Nueva Privacidad (NMprivacidad)</li>
+
+<li>Nuevo Servidor de temas</li> 
  
  
 "," url ":" https://mundoappmix.blogspot.com.co "
