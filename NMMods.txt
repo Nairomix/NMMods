@@ -5,8 +5,17 @@
 <li>Agregado Multichat Mod 12.6</li>
 <li>Reducido Color En Pantalla Principal</li>
 <li>Nuevo color En Barra de Ajustes</li>
-<li>Nueva Privacidad (NMprivacidad)</li>
 <li>Nuevo Servidor de temas</li>
+<li>Agregado control de Actualización</li>
+<li>Nuevas Burbujas de chat mod 12</li>
+<li>Estados Ilimitados + Envios 2G</li>
+<li>Emojis variantes</li>
+<li>AutoTex Automatico</li>
+<li>Panel de inicio(Home)</li>
+<li>Nuevos TickStyle Mod 6</li>
+<li>Ocultar Nombre/y a la Derecha Mod 1.1.15</li>
+<li>Estilo de Entrada de texto</li>
+<li>Otros Fixed</li>
  
  
 "," url ":" https://mundoappmix.blogspot.com.co "
