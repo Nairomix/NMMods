@@ -1,5 +1,5 @@
- {"version_code": 452257, "content": "
-<p>WAMIX / MIXWA / MIXWA3 v7.68 By Nairo Mix</p>
+ {"version_code": xxxxxxx, "content": "
+<p>WAMix v7.70 By Nairo Mix</p>
  
  
 <li>Agg Estado debajo del Nombre Mod 12.7</li>
