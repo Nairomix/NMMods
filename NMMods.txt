@@ -1,5 +1,5 @@
- {"version_code": 452402, "content": "
-<p>WhatsApp Mix V7.75</p>
+ {"version_code": x, "contenido": "
+<p> WhatsApp Mix V7.75 </ p>
 
 <li>Thanks to:</li>
 <li>atnfas hoak(Omar)</li>
