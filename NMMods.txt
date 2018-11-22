@@ -1,27 +1,17 @@
- {"version_code": x, "contenido": "
-<p> WhatsApp Mix V7.75 </ p>
-
-<li>Thanks to:</li>
-<li>atnfas hoak(Omar)</li>
-
-<li>MOD By:</li>
-<li>Nairo Mix</li>
+{"version_code": xxxxxxxx, "contenido": "
+<p>WhatsApp Mix V7.80 MIXWAMods</p>
  
-<li>Base actualizada</li>
-<li>Foto en centro</li>
-<li>Burbujas de chat 12.0</li>
-<li>Paneles de inicio 12.1</li>
-<li>Estilo de entradas 12.2</li>
-<li>Multichat (conversacion) 12.3</li>
-<li>Barra de accion en el mod 12.4</li>
-<li>Estado debajo del nombre 12.5</li>
-<li>Ocultar conversion</li>
-<li>Pagina de temas mi blog</li>
-<li>Conversacion a la derecha</li>
-<li>Estados ilimitados y Multimedia</li>
-<li>116 iconos de notificacion</li>
-<li>Nuevo cambio extremo</li>
+<li>Nueva base actualizada a 2.18.327</li>
+<li>Pegatinas habilitadas</li>
+<li>Estado debajo del nombre</li>
+<li>Pack de iconos esclusivos</li>
+<li>116 iconos de notificación</li>
+<li>Ocultar estilo enconversacion</li>
+<li>Estilo a la derecha enconversacion</li>
+<li>Estado limitado y multimedia 2GB</li>
+<li>Panales de inicio ((Home))</li>
+<li>Nuevos tickstyle</li>
+<li>Entre otros cambios</li>
  
- 
-"," url ":" https://mundoappmix.blogspot.com.co "
+"," url ":"https://planetandroid2.blogspot.com.co/?m=1"
 }
