@@ -1,4 +1,4 @@
-{"version_code": xxxxxxxx, "contenido": "
+{"version_code": xxxxxxx, "contenido": "
 <p>WhatsApp Mix V7.80 MIXWAMods</p>
  
 <li>Nueva base actualizada a 2.18.327</li>
