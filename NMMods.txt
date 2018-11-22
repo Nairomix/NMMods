@@ -1,4 +1,4 @@
-{"version_code": 452402, "contenido": "
+{"version_code":452402, "content":"
 <p>WhatsApp Mix V7.80 MIXWAMods</p>
  
 <li>Nueva base actualizada a 2.18.327</li>
