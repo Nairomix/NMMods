@@ -13,5 +13,5 @@
 <li>Nuevos tickstyle</li>
 <li>Entre otros cambios</li>
  
-"," url ":"https://planetandroid2.blogspot.com.co/?m=1"
+"," url ":"https://www.nairomix.com/"
 }
