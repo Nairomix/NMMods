@@ -1,5 +1,5 @@
-{"version_code":452402, "content":"
-<p>WhatsApp Mix V7.80 MIXWAMods</p>
+{"version_code":xxxxxx, "content":"
+<p>WhatsApp Mix V9.00 MIXWAMods</p>
  
 <li>Nueva base actualizada a 2.18.327</li>
 <li>Pegatinas habilitadas</li>
