@@ -1,17 +1,12 @@
-{"version_code":xxxxxx, "content":"
-<p>WhatsApp Mix V9.00 MIXWAMods</p>
+{"version_code":452559, "content":"
+<p>WhatsApp Mix V7.90 YoMix</p>
  
-<li>Nueva base actualizada a 2.18.327</li>
-<li>Pegatinas habilitadas</li>
-<li>Estado debajo del nombre</li>
-<li>Pack de iconos esclusivos</li>
-<li>116 iconos de notificación</li>
-<li>Ocultar estilo enconversacion</li>
-<li>Estilo a la derecha enconversacion</li>
-<li>Estado limitado y multimedia 2GB</li>
-<li>Panales de inicio ((Home))</li>
-<li>Nuevos tickstyle</li>
-<li>Entre otros cambios</li>
+<li>Base Update 2.19.34</li>
+<li>Exclusive Design and cards YoMix!</li>
+<li>Exclusive Unlimited Status up to 2GB</li>
+<li>PExclusive Style of Status!</li>
+<li>Exclusive Quick Contac!</li>
+<li>OExclusive Style of attachmet!</li>
  
-"," url ":"https://www.nairomix.com/"
+"," url ":"https://www.nairomix.com/2019/03/WhatsApp-Mix-YoMix-7.90.html"
 }
