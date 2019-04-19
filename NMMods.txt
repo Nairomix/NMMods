@@ -1,12 +1,16 @@
 {"version_code":xxxxxx, "content":"
-<p>WhatsApp Mix V7.90 YoMix</p>
+<p>MIXWhatsApp V8.00 WAMix3D</p>
  
-<li>Base Update 2.19.34</li>
-<li>Exclusive Design and cards YoMix!</li>
-<li>Exclusive Unlimited Status up to 2GB</li>
-<li>PExclusive Style of Status!</li>
-<li>Exclusive Quick Contac!</li>
-<li>OExclusive Style of attachmet!</li>
+<li>Base actualizada 2.19.17</li>
+<li>Fondo perzonalizado</li>
+<li>info de perfil por defeto</li>
+<li>Lista de efectos</li>
+<li>Panel de inicio home</li>
+<li>Nombre y estado</li>
+<li>Privacidaad de estados</li>
+<li>Entrada ios por defecto</li>
+<li>Nuevos sitio web de tema</li>
+<li>Entre otros ajustes</li>
  
-"," url ":"https://www.nairomix.com/2019/03/WhatsApp-Mix-YoMix-7.90.html"
+"," url ":"https://www.nairomix.com"
 }
