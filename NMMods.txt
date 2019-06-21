@@ -1,5 +1,5 @@
-{"version_code":452559, "content":"
-<p>MIXWhatsApp V8.00 WAMix3D</p>
+{"version_code":xxxxxz, "content":"
+<p>MIXWhatsApp V8.15 WAMix3D</p>
  
 <li>Base actualizada 2.19.17</li>
 <li>Fondo perzonalizado</li>
