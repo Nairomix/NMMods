@@ -1,16 +1,4 @@
-{"version_code":xxxxxz, "content":"
+{"version_code":452646, "content":"
 <p>MIXWhatsApp V8.15 WAMix3D</p>
  
-<li>Base actualizada 2.19.17</li>
-<li>Fondo perzonalizado</li>
-<li>info de perfil por defeto</li>
-<li>Lista de efectos</li>
-<li>Panel de inicio home</li>
-<li>Nombre y estado</li>
-<li>Privacidaad de estados</li>
-<li>Entrada ios por defecto</li>
-<li>Nuevos sitio web de tema</li>
-<li>Entre otros ajustes</li>
- 
-"," url ":"https://www.nairomix.com/2019/04/WAMix3d-by-NairoMix.html?m=1"
-}
+<li>Estamos trabajando 2.19.150</li>
